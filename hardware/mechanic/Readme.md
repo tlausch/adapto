@@ -11,7 +11,6 @@
 | z_coupling_m5		    | 1      |
 | foot			          | 4      |
 | extruder_idler		  | 1      |
-| inner_corner_90		  | 2-10   |
 | gear_t36		        | 1      |
 | gear_t13		        | 1      |
 | extruder_x_carriage	| 1      |
@@ -19,3 +18,7 @@
 | stop_holder		      | 1      |
 | x_idler			        | 1      |
 | x_motor_mount		    | 1      |
+|---------------------|--------|
+|optional Part        | Amount |
+|---------------------|--------|
+| inner_corner_90		  | 2-10   |
