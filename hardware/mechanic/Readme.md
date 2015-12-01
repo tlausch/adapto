@@ -18,7 +18,7 @@
 | stop_holder		      | 1      |
 | x_idler			        | 1      |
 | x_motor_mount		    | 1      |
-|---------------------|--------|
+
 |optional Part        | Amount |
 |---------------------|--------|
 | inner_corner_90		  | 2-10   |
