@@ -25,14 +25,18 @@ We decided to go for reprap adaptop LM=10mm rods for stability.
 |---------------------|--------|
 | inner_corner_90     | 4-10   |
 
-Aluminium-Profiles
+## Aluminium-Profiles
+
+got it from alu-profiltechnik.com
+
 |Part          | Amount |
 |--------------|--------|
 | 20x20x300    | 2/2    |
 | 20x20x340    | 2/2    |
 | 20x20x420    | 3/3    |
 
-Rods 
+## Rods 
+
 |Part          | Amount |
 |--------------|--------|
 | x: 10x400    | 0/2    |
